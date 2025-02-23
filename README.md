@@ -177,18 +177,3 @@ app.listen(PORT, () => {
 This project is licensed under the MIT License.
 
 ---
-
-🚀 **Happy Coding!**
-```
-
----
-
-### ✅ **What This README Includes:**
-✔️ **Full setup guide** (for both **local & Docker**)  
-✔️ **Complete Express.js API code**  
-✔️ **Dockerfile & .dockerignore setup**  
-✔️ **All Docker commands**  
-✔️ **API documentation**  
-
-Now, **just copy-paste this into `README.md`**, and your project is **ready for GitHub!** 🚀🔥
-```
